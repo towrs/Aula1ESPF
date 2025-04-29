@@ -42,6 +42,7 @@ aside{
 footer{
     background: greenyellow;
     padding: 50px;
+    width: 100%;
 }
 @media(min-width:700px){
     #container{
